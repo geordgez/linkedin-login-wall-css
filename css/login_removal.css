@@ -1,15 +1,13 @@
 /*
-CSS for removing the login wall and scroll freeze
-
-GitHub repository: https://github.com/geordgez/linkedin-login-wall-css
-Valid as of 12-17-2017
+CSS for removing the login wall and scroll freeze on LinkedIn
 */
 
-
-#advocate-modal.show {
+@-moz-document domain('www.linkedin.com') {
+  #advocate-modal.show {
     display: none;
-}
+  }
 
-body.advocate-modal-visible {
+  body.advocate-modal-visible {
     overflow: visible;
+  }
 }

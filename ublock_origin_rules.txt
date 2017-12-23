@@ -1,0 +1,3 @@
+linkedin.*###advocate-modal
+
+linkedin.*##body.advocate-modal-visible:style(overflow:visible;)

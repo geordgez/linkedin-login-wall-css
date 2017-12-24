@@ -3,8 +3,12 @@
 Some code for removing the login wall and scroll freeze when browsing more than
 one profile on LinkedIn without needing to log in.
 
-JavaScript can be pasted into the console to remove the login wall and scroll
-freeze.
+Bookmarklet that you can drag to your browser's bookmarks toolbar 
+[**HERE**](http://gdgz-skip-linkedin-login-wall.s3-website-us-east-1.amazonaws.com/).
+If you ever hit the soft login wall, you can just click the bookmark to get rid 
+of the login wall and scroll freeze.
+
+JavaScript provided can also be pasted into the console to do the same thing.
 
 uBlock Origin filter lines can be added via uBlock Origin Settings > My filters.
 

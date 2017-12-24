@@ -1,0 +1,12 @@
+body {
+  margin: 5vmin;
+}
+
+a.bookmarklet-button {
+  padding: 8px 20px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  margin: 20px;
+  color: #009BC2;
+  text-decoration: none;
+}
